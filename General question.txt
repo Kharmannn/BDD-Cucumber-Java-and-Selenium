@@ -1,0 +1,6 @@
+General Question (Push your answer on Github) :
+1. Can you tell us about your passion?
+2. Why do you want to be a QA Engineer?
+3. What is your goal as a QA Engineer ?
+4. How do you plan your goal as a QA Engineer ?
+5. What is your expectation, If you join with Catalyst as a QA Engineer ?
