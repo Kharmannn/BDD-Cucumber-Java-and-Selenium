@@ -116,7 +116,7 @@ public class Homepage extends Helper {
         inputMaxValue.sendKeys(Keys.ENTER);
         Thread.sleep(5000);
 
-        if(driver.findElements(By.xpath("//iframe[@id='automizely_marketing_popup_bars']")).size() > 0) {
+        if(driver.findElement(By.xpath("//iframe[@id='automizely_marketing_popup_bars']")).isDisplayed()) {
             driver.switchTo().frame("automizely_marketing_popup_bars");
             clickOnWeb(btnCloseModalDiscount);
             driver.switchTo().defaultContent();
