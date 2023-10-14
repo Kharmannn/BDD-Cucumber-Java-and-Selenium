@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/hellocucumber/pom.xml" />
+        <option value="$PROJECT_DIR$/catalyst-automation/pom.xml" />
+        <option value="$PROJECT_DIR$/AutomationCatalyst/pom.xml" />
       </list>
     </option>
   </component>

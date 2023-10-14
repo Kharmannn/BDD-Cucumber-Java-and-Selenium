@@ -4,3 +4,22 @@ General Question (Push your answer on Github) :
 3. What is your goal as a QA Engineer ?
 4. How do you plan your goal as a QA Engineer ?
 5. What is your expectation, If you join with Catalyst as a QA Engineer ?
+
+Answer:
+Passion: I like to automate every manual things, including QA. My passion revolve around create something new with
+the help from software engineering. In QA i do like to research many things, such as crafting device farm. Being in touch
+with SDET makes me feel alive because i supposed to code not to only manually test and do some monotonous task.
+
+Why QA Engineer: QA gives the huge perspective on how technical and business of the company works. Secong thing that I
+love to automate the task so that it can increase the productivity.
+
+Goal as a QA Engineer: Primarily maybe want to be able to perform E2E also with CI/CD to handle the QA process
+including automation and also the manual one, also able to teach people to transition from manual to atuomation one.
+On businness reason maybe i want to guard that the product has a good and proper quality in the market.
+Its been an honour as well to find bugs and able to penetrate the security.
+
+Planning Goals: More task or more heavy on automation, know how to use more frameworks.
+
+Expectations at Catalyst as a QA Engineer: Handle and deliver a very exciting project,
+collaborate with smarter people and engineer, learn a lot from talented person, to know more
+about marketplace of Luxury items.
