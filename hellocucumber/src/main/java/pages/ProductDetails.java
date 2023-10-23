@@ -31,7 +31,6 @@ public class ProductDetails extends Helper {
         btnAddToCart.click();
         waitUntilVisible(btnGoToShoppingBag);
         btnGoToShoppingBag.click();
-        waitUntilVisible(Cart.txtTotalPrice);
 
         return this;
     }
